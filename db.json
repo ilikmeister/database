@@ -30,6 +30,6 @@
   {"id": 13, "name": "shadow shaman", "winrate": "50%"},
   {"id": 14, "name": "lion", "winrate": "49%"},
   {"id": 15, "name": "crystal maiden", "winrate": "51%"},
-  ]
+  ];
   
 }
