@@ -1,5 +1,4 @@
 {
-  
 "posts": [
   {"id": 1, "email": "lebronjames@gmail.com", "password": "kingJames23$"},
   {"id": 2, "email": "kevindurant@gmail.com", "password": "Easymoneysniper8*"},
@@ -30,6 +29,5 @@
   {"id": 13, "name": "shadow shaman", "winrate": "50%"},
   {"id": 14, "name": "lion", "winrate": "49%"},
   {"id": 15, "name": "crystal maiden", "winrate": "51%"},
-  ];
-  
+  ]
 }
